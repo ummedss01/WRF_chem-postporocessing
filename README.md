@@ -1,4 +1,4 @@
-# Extracting 3D Variables from WRF-Chem Output Files
+# Extracting 3D Variables from WRF/WRF-Chem Output Files
 
 ## Overview
 
